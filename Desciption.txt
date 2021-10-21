@@ -1,0 +1,3 @@
+This laravel based ecommerce is implemented based on our popular REST API & GraphQL API support. 
+
+On the frontend I have used React, NextJS [ TypeScript ] & Tailwind. Full source code is available.
